@@ -75,3 +75,4 @@ colnames(agg_data)[2] <-  "Activity"
 #write the dataframe to the file tidy_data.txt
 write.table(agg_data,"tidy_data.txt", row.names = FALSE)
 
+

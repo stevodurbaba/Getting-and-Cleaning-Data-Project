@@ -17,3 +17,4 @@ run_analysis.R does the following:
 * Adds "mean." to the colunm names and tidys up the colunm names
 * Writes the dataframe to the file tidy_data.txt
 
+
