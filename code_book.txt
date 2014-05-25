@@ -1,4 +1,3 @@
-### Code book for tidy_data.txt
 Subject
 Activity
 mean.tBodyAcc.mean...X
